@@ -5,4 +5,4 @@ say_hello('Egor')
 
 def multy_num_and_word(num: int, word: str) -> str:
     word = word.capitalize()
-    return word * 2 * num
+    return word * 3 * num
